@@ -1,1 +1,2 @@
 This is test file first line.
+This is second line. Edited in GitHub Editor.
